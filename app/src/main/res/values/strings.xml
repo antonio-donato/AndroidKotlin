@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestAS</string>
+    <string name="hello_world_text">0</string>
+    <string name="random_heading">Random number here</string>
+</resources>
