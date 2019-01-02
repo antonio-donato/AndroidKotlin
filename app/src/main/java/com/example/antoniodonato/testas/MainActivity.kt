@@ -37,8 +37,6 @@ class MainActivity : AppCompatActivity() {
 
         randomIntent.putExtra(SecondActivity.TOTAL_COUNT, count)
 
-
-
         startActivity(randomIntent)
     }
 }
